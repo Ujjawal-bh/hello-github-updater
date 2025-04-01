@@ -3,10 +3,11 @@
 Plugin Name: Hello GitHub Updater
 Plugin URI: https://github.com/Ujjawal-bh/hello-github-updater
 Description: A simple plugin that says "Hello World" with automatic GitHub updates
-Version: 1.0.0
+Version: 1.0.3
 Author: Ujjawal Bhandare
 Author URI: https://yourwebsite.com
 Update URI: https://github.com/Ujjawal-bh/hello-github-updater
+
 */
 
 // Display "Hello World" on the front-end
